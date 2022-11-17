@@ -55,6 +55,16 @@ p {
     font-size: 16px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 .hero {
     height: 800px;
     width: 100%;
@@ -86,16 +96,6 @@ p {
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 .aside {
