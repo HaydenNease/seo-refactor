@@ -65,7 +65,8 @@ Almost all of the preexisting class elements for the page were redundant:
 ```
 
 All of the identical class styles were consolidated into singular semantic elements in both HTML and CSS:  
-```article {
+```
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
