@@ -51,20 +51,6 @@ a:hover {
     text-decoration: underline;
 }
 
-p {
-    font-size: 16px;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -96,6 +82,20 @@ main {
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+p {
+    font-size: 16px;
 }
 
 aside {
@@ -132,6 +132,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
