@@ -1,6 +1,6 @@
 # Horiseon seo-refactor Challenge
 
-Webpage is live at https://haydennease.github.io/seo-refactor/
+Application is live at https://haydennease.github.io/seo-refactor/
 
 ## Areas of Focus 
 - [Metadata](#metadata)
@@ -9,7 +9,7 @@ Webpage is live at https://haydennease.github.io/seo-refactor/
 - [Bloat Reduction](#bloat-reduction)
 
 ## Metadata
-The application was lacking almost all of its necessary `metadata`. 
+The webpage was lacking almost all of its necessary `metadata`. 
 
 `description`, `keywords`, and `viewport` were added to increase search engine optimization and improve display properties.
 
